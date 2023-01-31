@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    
+    opacity: 0.8;
+   
+    background-size: 10px 10px;  
+ 
+
+}
+  
+  .form__Register {  
+    width: 400px; 
+    background: #000;  
+    padding: 30px;
+    margin: auto; 
+   
+    border-radius: 4px;
+    font-family: 'calibri'; 
+    color: white;  
+    margin-bottom: 300px;
+      
+  }
+  
+  .form__Register h4 {
+    font-size: 22px;
+    margin-bottom: 20px; 
+    margin-left: 110px;
+  }
+  
+  .controls{
+width: 340px;
+padding: 10px;
+border-radius: 4px;
+margin-bottom: 16px;
+font-size: 18px;
+border-radius: 5px;
+  }
+  
+  .form__Register p {
+    height: 40px;   
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form__Register a {
+    color: white;
+    text-decoration: none;  
+  }
+  
+  .form__Register h4:hover {
+    color: white;
+    text-decoration: underline; 
+  }
+  
+  .form__Register .botons {   
+    width: 100%;
+    background: #1f53c5; 
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;  
+    font-size: 16px;   
+    cursor: pointer;    
+  } 
+
+  .logo img{
+    width: 200px;
+    display: inline;
+
+  }
+
+  .form__Register h4:hover{
+    background: gray;
+
+  }
+
+  .pie-depagina {
+  background: #000;
+  color: white;
+  padding: 30px;
+ 
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+  }
+  
+  .pie-depagina h4{
+display: inline-block;
+  }
+  
+  .pie-depagina p{
+    display: inline-block;
+  }
